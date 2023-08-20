@@ -10,6 +10,5 @@ API Calls and response to create email from the credential BannerUsername using 
 response from 2nd API call,  extracts the persons id, credentials, name and email 
 
 ## Contact
-symtaxss@gmail.com
-
-
+Developer Stacy Sewell
+syntaxss@gmail.com
